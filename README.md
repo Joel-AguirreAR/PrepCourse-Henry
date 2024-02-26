@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es una prueva del modulo 2
+Este proyecto es una prueva de como crear un repositorio.
